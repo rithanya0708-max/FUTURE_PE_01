@@ -25,3 +25,16 @@ The final result is a reusable set of AI prompts that can generate attractive an
 ### Internship
 
 This project was completed as part of the *Future Interns Prompt Engineering Internship – Task FUTURE_PE_01*.
+
+### folder structure
+releases 
+no releases published
+
+packages
+no packages published
+###contributors
+rithanya0708-max
+
+
+
+
