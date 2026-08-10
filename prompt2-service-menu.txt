@@ -1,0 +1,33 @@
+## prompt2:service and menu
+
+Create an attractive Services and Menu section for the Tasty Bites 
+Restaurant website in Coimbatore.
+
+SERVICES SECTION:
+Write attractive descriptions (2-3 sentences each) for these services:
+1. Fast and Best Service – quick, friendly, quality-focused service
+2. Fast and Convenient Home Delivery – quick delivery, hot & fresh food
+3. Comfortable Dining Venue – relaxed seating perfect for family and 
+   friends
+4. Best Customer Service – attentive staff, great experience every 
+   visit
+
+MENU SECTION:
+Create an attractive menu highlights section including:
+1. Family Combo – value meal package for families
+2. Weekend Offers – special discounts/deals available on weekends
+3. Friends Combo – group meal deal perfect for friends hangouts
+4. Seasonal/Time-based Offers – special offers during specific times 
+   like seasonal offers
+5.taste a delicious food from south India , Chinese ,north India 
+
+For each menu item, write a short catchy description (1-2 sentences) 
+with an appealing offer-style tone that encourages customers to try it.
+
+Include an "Order Now" button for menu items.
+
+The "Order Now" button should navigate to the Order/Contact section or page.
+
+Tone: Simple, friendly, professional, and attractive — content should make customers excited to dine in, order, or take advantage of the offers.
+
+Keep the same design style as the Homepage and make the page responsive.

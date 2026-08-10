@@ -1,0 +1,25 @@
+ ## prompt 3: CTA section
+
+Create an attractive CTA (Call-To-Action) section for the Tasty Bites 
+Restaurant website in Coimbatore. Maximum 4 lines total.
+
+Include catchy, offer-based lines covering:
+1. An attractive line based on Family Combo offers
+2. An attractive line based on Weekend and Seasonal offers
+3. An attractive line based on Friends Combo and a limited-time 
+   Unlimited Meal offer
+
+End with a strong closing call-to-action encouraging customers to 
+book, order, or visit now.
+
+End with a strong closing call-to-action encouraging customers to book, order, or visit now.
+
+Include:
+- Order Now button
+- Book a Table button
+
+The "Order Now" button should navigate to the Order/Contact section or page.
+
+The "Book a Table" button should navigate to the Booking/Contact section or page.
+
+Tone: Simple, friendly, professional, and exciting — content should create urgency and encourage immediate action.

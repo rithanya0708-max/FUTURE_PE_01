@@ -1,0 +1,7 @@
+## TASTY BITES RESTAURANT 
+
+restaurant name: taste bite restaurant
+location: Coimbatore
+target audience: students ,families ,office employees
+service: dine-in, takeaway ,home delivery
+main features: fresh and  tasty food, fast service ,home delivery ,comfortable dining venue,family-friendly atmosphere.

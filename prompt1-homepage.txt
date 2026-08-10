@@ -1,0 +1,24 @@
+## prompt1:homepage
+
+Create professional and attractive homepage content for Tasty Bites Restaurant in Coimbatore. 
+The target audience includes students, families, and office employees.
+The restaurant provides dine-in, takeaway, and home delivery services. 
+Highlight the fresh and tasty food, affordable prices, fast and friendly service, convenient home delivery, comfortable dining venue, and family-friendly atmosphere. 
+Create an attractive homepage with the restaurant name, an engaging headline, a short introduction, information about the services, the special features of the restaurant, and a strong call-to-action.
+ Use a simple, friendly, professional, and attractive tone that encourages customers to visit Tasty Bites Restaurant.
+
+Create an attractive homepage with:
+- Restaurant name
+- Engaging headline: "Coimbatore's Favorite Food Hub"
+- Short introduction
+- Attractive food/restaurant visuals
+- Explore Our Menu button
+- Book a Table button
+
+The "Explore Our Menu" button should navigate to the Menu Highlights section/page.
+
+The "Book a Table" button should navigate to the Booking/Contact section/page.
+
+Use a simple, friendly, professional, and attractive tone that encourages customers to visit Tasty Bites Restaurant.
+
+Make the homepage responsive and easy to navigate.
