@@ -25,14 +25,6 @@ Tone adaptation prompt — a reusable layer that rewrites any base copy into the
 Each prompt follows the same structure: Role → Business Context → Task → Rules. The Rules section is what prevents generic AI-sounding output — it explicitly bans vague phrases ("unforgettable experience," "best in town"), fake claims ("award-winning" without proof), and forces concrete, specific details (services offered, target audience, location, atmosphere).
 Folder Structure
 
-###Releases
-
-No releases published
-
-Packages
-
-No packages published
-
 Contributors(1)
 
 @rithanya0708-max — rithanya.A
